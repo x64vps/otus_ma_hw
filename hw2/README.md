@@ -1,5 +1,5 @@
 ## URL
 
 ```SH
-URL: http://arch.homework/health
+http://arch.homework/health
 ```
